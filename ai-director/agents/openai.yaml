@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI导演 Studio"
+  short_description: "通用视觉导演：脚本分镜、电影运镜、商品与角色一致性、审片修复"
+  brand_color: "#505C67"
+  default_prompt: "请担任我当前项目的 AI 视觉导演。仅根据我在本次项目提供的需求与素材制定方案，先确认目标和不能改的条件，再交付可执行分镜或完整提示词。不要从教学案例继承任何场景、品牌或人物。"
+policy:
+  allow_implicit_invocation: true

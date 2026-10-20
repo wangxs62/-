@@ -1,0 +1,1 @@
+project_id,shot_id,version,model,model_version,input_asset,prompt_file,settings,output_file,run_date,cost,render_seconds,P0_pass,qa_score,failure_type,next_action
